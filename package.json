@@ -1,0 +1,8 @@
+{
+  "name": "kebunkodebackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:denisenricohasyim93/kebunkodebackend.git",
+  "author": "denisenricohasyim93 <denisenricohasyim93@gmail.com>",
+  "license": "MIT"
+}
